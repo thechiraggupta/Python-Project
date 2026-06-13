@@ -21,8 +21,7 @@ def calculate_love_score(name1,name2):
     count6=name.lower().count(char6)
     count7=name.lower().count(char7)
     count8=name.lower().count(char8)
-    count8=name.lower().count(char8)
-    
+
     total1=str(count1+count2+count3+count4)
     total2=str(count5+count6+count7+count8)
     
